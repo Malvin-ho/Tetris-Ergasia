@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Doto:wght@100..900&display=swap');
+body{
+    margin: 0;
+    background: linear-gradient(rgb(170, 84, 134),rgb(252, 143, 84));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
